@@ -19,3 +19,4 @@ There are some more non-essential repos for the project
 - [active learning experiments](https://github.com/COMPAS-Surrogate/active_learning_experiments)
 - [surrogate_studies](https://github.com/COMPAS-Surrogate/surrogate_studies)
 
+[Wiki with meeting mins here](https://avi-vajpeyi.gitbook.io/compas-ml-surrogate/)
